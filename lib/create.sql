@@ -1,7 +1,7 @@
 CREATE TABLE bears (
   id INTEGER
   name TEXT
-  age
+  age INTEGER
   gender
   color
   temperament
